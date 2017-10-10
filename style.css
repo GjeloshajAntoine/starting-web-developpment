@@ -2,7 +2,8 @@ body{
   background-color: #e4e4e4;
 }
 .main{
-  width:34%;
+  /*width:34%;*/
+  width:700px;
   margin:0 auto;
   font-family: Montserrat;
 }
@@ -53,6 +54,12 @@ body{
   color:white;
   border-radius: 5px;
 }
+.red-button:hover{
+  background-color: rgb(216, 47, 46);
+}
+.red-button:active{
+  background-color: rgb(156, 22, 21);
+}
 
 .buttons-container{
 
@@ -62,6 +69,14 @@ body{
   margin: 5%;
   font-size: 20px;
   color: #e4e4e4;
+}
+.share-button:hover{
+    color: #b7b3b3;
+    cursor:pointer;
+}
+.share-button:active{
+  color:#797979;
+  cursor:pointer;
 }
 .share-button i{
   font-size: 35px;
