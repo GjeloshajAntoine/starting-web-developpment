@@ -11,7 +11,8 @@ Exercice 8
 * La même couleur a été utilisée pour les textes
 * J'ai utilisé fontawesome pour les icones
 * Pour les films , j'ai évité les flex et utilisé les float
-
+..* test markdown
+⋅⋅* Unordered sub-list. 
 ## Difficultés recontrées
 * Centrer les éléments
 * L'alignement du texte et des filme
