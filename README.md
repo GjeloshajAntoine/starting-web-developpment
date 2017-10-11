@@ -2,7 +2,7 @@
 Exercice 8
 
 
-[Github pages](https://github.com/GjeloshajAntoine/starting-web-developpment)
+[Github pages](https://gjeloshajantoine.github.io/starting-web-developpment/)
 
 
 ## Présentation du code
